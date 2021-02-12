@@ -15,7 +15,7 @@ body {
 
     background-image:url(naggars.gif);
 	background-repeat:repeat;
-	position:fixed;
+	position:relative;
 	size:50%;
 	width:100%;
 	height:100%;
